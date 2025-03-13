@@ -1,4 +1,5 @@
-## 👋Hi, I'm Michael Thon Pur Chienggan💫
+## 👋Hi, I'm Michael Thon Pur Chienggan💫<br/>
+
 
 <!--
 **MichaelThon21/MichaelThon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#ABOUT Me:
+#ABOUT Me:<b><br/>
 🧠 Personal website(https://mikethonpur.vercel.app).<br/>
 🎓 Bachelor of Computer Applications student at T John College, Bangalore-India.<br/>
 💻 Passionate about programming, web development and cyber security.<br/>
