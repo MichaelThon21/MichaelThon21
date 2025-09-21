@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #ABOUT Me:<b><br/>
-🧠 Personal website(https://mikethonpur.vercel.app).<br/>
+🧠 Personal website(https://mikethon.vercel.app).<br/>
 🎓 Bachelor of Computer Applications student at T John College, Bangalore-India.<br/>
 💻 Passionate about programming, web development and cyber security.<br/>
 🔍 Always learning new technologies and improving my coding skills.<br/>
